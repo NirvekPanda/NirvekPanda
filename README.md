@@ -4,12 +4,13 @@ Hello there! I'm Nirvek Pandey, a passionate programmer and a curious individual
 
 ## About Me
 
-![Profile Image](/screenshots/profile.jpg)
-
 I've been fascinated by technology from a young age, leading me to dive deep into the world of computers. Here's a bit more about my journey and what I love doing:
 
 - **Programming Languages:** I enjoy working with Python, Java, and C++ for backend, and HTML, CSS React, and Node.js for backend.
 - **Hobbies:** Apart from coding, I love cooking, photography, and exploring new cuisines.
+
+### Resume
+![Download Link](/Resume-NirvekPandey.pdf) */
 
 ### Professional Journey
 I started my coding journey with simple scripts to automate daily tasks
