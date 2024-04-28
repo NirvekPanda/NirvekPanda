@@ -20,10 +20,9 @@ I started my coding journey with simple scripts to automate daily tasks
 3. Taught middle and elementary school students Java basics.
 4. Built a custom keyboard in the eleventh grade.
 
-#### Projects
-
-- [Project 1](https://example.com/project1) - hyperlinked project
-- [Project 2](https://example.com/project2) - hyperlinked project
+<> #### Projects ()
+<> (- [Project 1](https://example.com/project1) - hyperlinked project)
+<> (- [Project 2](https://example.com/project2) - hyperlinked project)
 
 ## Contact
 
