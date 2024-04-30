@@ -2,11 +2,10 @@
 <html>
 
 <head>
-    <title> Resumes </title>
+    <div>
+        <title> Resume </title>
     </div>
-    <style>
-        /* Add your CSS styles here */
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <style>
@@ -15,16 +14,10 @@
         aspect-ratio: 4 / 3;
     }
 
-    .pdf,
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
 </style>
 
 <body>
+
     <header>
         <div>
             <h1>Resume: </h1>
@@ -36,9 +29,13 @@
                 <li><a href="contact.html">Contact</a></li>
                 <li><a href="resume.html">Resume</a></li>
             </ul>
+    </header>
 
-            <object class="pdf" data="Resume-NirvekPandey.pdf" width="800" height="500">
-            </object>
+    <main>
+        <object class="pdf" data="Resume-NirvekPandey.pdf" width="800" height="100%">
+        </object>
+
+    </main>
 </body>
 
 </html>
