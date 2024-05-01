@@ -9,8 +9,8 @@ I've been fascinated by technology from a young age, leading me to dive deep int
 - **Programming Languages:** I enjoy working with Python, Java, and C++ for backend, and HTML, CSS, and React for frontend.
 - **Hobbies:** Apart from coding, I love cooking, photography, and exploring new cuisines.
 
-## Resume
-- [Download Link](/Resume-NirvekPandey.pdf)
+## Portfolio
+- [More About Me!](https://nirvekpanda.github.io/NirvekPanda/)
 
 ### Professional Journey
 I started my coding journey with simple scripts to automate daily tasks
