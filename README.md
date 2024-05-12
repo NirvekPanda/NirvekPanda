@@ -7,7 +7,7 @@ Hello there! I'm Nirvek Pandey, a passionate programmer and a curious individual
 I've been fascinated by technology from a young age, leading me to dive deep into the world of computers. Here's a bit more about my journey and what I love doing:
 
 - **Programming Languages:** I enjoy working with Python, Java, and C++ for backend, and HTML, CSS, and React for frontend.
-- **Hobbies:** Apart from coding, I love cooking, photography, and exploring new cuisines.
+- **Hobbies:** Apart from coding, I love cooking, brewing my own kombucha, and exploring new cuisines.
 
 ## Portfolio
 - [More About Me!](https://nirvekpanda.github.io/NirvekPanda/) (WIP)
