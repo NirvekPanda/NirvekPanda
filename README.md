@@ -10,7 +10,7 @@ I've been fascinated by technology from a young age, leading me to dive deep int
 - **Hobbies:** Apart from coding, I love cooking, brewing my own kombucha, and exploring new cuisines.
 
 ## Portfolio
-- [More About Me!](https://nirvekpanda.github.io/NirvekPanda/) (WIP)
+- [More About Me!](https://nirvekpandey.com)) (WIP)
 
 ### Professional Journey
 I started my coding journey with simple scripts to automate daily tasks
