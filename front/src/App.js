@@ -2,6 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const handleImageResume = () => {
+    const pdf = document.createElement('a');
+    pdf.href = 'resume.pdf';
+    pdf.download = 'Nirvek_Pandey_Resume.pdf';
+    pdf.click();
+  };
+
   return (
     <div className="App">
       <header className="App-header">
@@ -22,15 +29,9 @@ function App() {
   );
 }
 
-const link = document.querySelector('App-logo');
-
-link.addEventListener('click', imageResume());
-
-function imageResume() {
-  const pdf = document.createElement('pdf');
-  pdf.href = 'resume.pdf';
-  pdf.download = 'Nirvek_Pandey_Resume.pdf';
-  pdf.click();
-}
+document.addEventListener('DOMContentLoaded', () => {
+  const link = document.querySelector('.App-logo');
+  link.addEventListener('click', handleImageResume);
+});
 
 export default App;
