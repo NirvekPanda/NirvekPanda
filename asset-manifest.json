@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NirvekPanda/static/css/main.80b506d6.css",
-    "main.js": "/NirvekPanda/static/js/main.5223409c.js",
-    "static/js/453.80efc53e.chunk.js": "/NirvekPanda/static/js/453.80efc53e.chunk.js",
-    "static/media/logo.svg": "/NirvekPanda/static/media/logo.edac75d7b34f879b256024ffa47d5304.svg",
-    "index.html": "/NirvekPanda/index.html",
-    "main.80b506d6.css.map": "/NirvekPanda/static/css/main.80b506d6.css.map",
-    "main.5223409c.js.map": "/NirvekPanda/static/js/main.5223409c.js.map",
-    "453.80efc53e.chunk.js.map": "/NirvekPanda/static/js/453.80efc53e.chunk.js.map"
+    "main.css": "/static/css/main.80b506d6.css",
+    "main.js": "/static/js/main.57affb2e.js",
+    "static/js/453.80efc53e.chunk.js": "/static/js/453.80efc53e.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.edac75d7b34f879b256024ffa47d5304.svg",
+    "index.html": "/index.html",
+    "main.80b506d6.css.map": "/static/css/main.80b506d6.css.map",
+    "main.57affb2e.js.map": "/static/js/main.57affb2e.js.map",
+    "453.80efc53e.chunk.js.map": "/static/js/453.80efc53e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80b506d6.css",
-    "static/js/main.5223409c.js"
+    "static/js/main.57affb2e.js"
   ]
 }
