@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.linkedin.com/NirvekPandey"
+          href="https://www.linkedin.com/in/nirvekpandey/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -20,6 +20,17 @@ function App() {
       </header>
     </div>
   );
+}
+
+const link = document.querySelector('App-logo');
+
+link.addEventListener('click', imageResume());
+
+function imageResume() {
+  const pdf = document.createElement('pdf');
+  pdf.href = 'resume.pdf';
+  pdf.download = 'Nirvek_Pandey_Resume.pdf';
+  pdf.click();
 }
 
 export default App;
