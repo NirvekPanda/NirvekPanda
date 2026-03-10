@@ -10,10 +10,10 @@ I've been fascinated by technology from a young age, leading me to dive deep int
 - **Hobbies:** Apart from coding, I love cooking, brewing my own kombucha, and exploring new cuisines.
 
 ## Portfolio
-- [More About Me!](https://nirvekpandey.com) (WIP)
+- [More About Me!](https://nirvekpandey.com)
 
 ### Professional Journey
-I started my coding journey with simple scripts to automate daily tasks
+I started my coding journey in the 5th grade writing simple scripts to automate tasks related to Minecraft.
 
 1. Built my first computer in the ninth grade
 2. Wrote scripts to automate tasks during the pandemic.
