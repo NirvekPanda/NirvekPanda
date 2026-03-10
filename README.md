@@ -1,6 +1,6 @@
 # Welcome!
 
-Hello there! I'm Nirvek Pandey, a passionate programmer and a curious individual always looking to learn new things. This page is a glimpse into who I am, both professionally and personally.
+Hello there! My name is Nirvek, a fourth year computer science major at UC San Diego with a background in AI/ML and interest in networks and systems. I am a passionate programmer and curious individual, always looking to learn new things. This page is a glimpse into who I am, both professionally and personally.
 
 ## About Me
 
