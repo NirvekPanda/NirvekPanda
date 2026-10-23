@@ -1,12 +1,13 @@
 # Welcome!
 
-Hello there! My name is Nirvek, a fourth year computer science major at UC San Diego with a background in AI/ML and interest in networks and systems. I am a passionate programmer and curious individual, always looking to learn new things. This page is a glimpse into who I am, both professionally and personally.
+Hello there! My name is Nirvek, a computer science graduate from the University of California, San Diego with a background in AI/ML and interest in networks and systems. I am a passionate programmer and curious individual, always looking to learn new things, especially about the internet. This page is a glimpse into who I am, both professionally and personally.
 
 ## About Me
+I've been fascinated by technology from a young age, leading me to dive deep into the world of computers.
+Currently, I am working on my Homelab powered by a recycled gaming PC running Proxmox.
+Here's a bit more about my journey and what I love doing:
 
-I've been fascinated by technology from a young age, leading me to dive deep into the world of computers. Here's a bit more about my journey and what I love doing:
-
-- **Programming Languages:** I enjoy working with Python, Java, and C++ for backend, and HTML, CSS, and React for frontend.
+- **Programming Languages:** I enjoy working with Golang, Python, Java/Kotlin, and C++.
 - **Hobbies:** Apart from coding, I love cooking, brewing my own kombucha, and exploring new cuisines.
 
 ## Portfolio
